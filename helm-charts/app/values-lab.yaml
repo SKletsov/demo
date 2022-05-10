@@ -30,4 +30,4 @@ resources:
      memory: 128Mi
 
 env:
-  API_KEY: a6311858fb35df63b55216bae4aa952a
+  API_KEY: 1234
